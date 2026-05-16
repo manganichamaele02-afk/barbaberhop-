@@ -1,0 +1,8 @@
+{
+  "name": "Fresh Cut Barber Shop",
+  "description": "A modern and professional barber shop website for Fresh Cut Barber Shop in Zambia, featuring a stylish design, service listings, booking, and gallery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
